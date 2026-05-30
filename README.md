@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="anima.svg"/>
+  <img src="anima.gif"/>
 </div>
