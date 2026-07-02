@@ -1,4 +1,8 @@
 <div align="center">
   <img src="anima.gif"/>
 </div>
-[![Repository Stats](https://img.shields.io/badge/📊_Repository_Stats-8A2BE2?style=for-the-badge&logoColor=white)](https://repositorystats.com/stell2026/anima)
+<p align="center">
+  <a href="https://repositorystats.com/stell2026/anima">
+    <img src="https://img.shields.io/badge/📊_View_Repository_Stats-6A0DAD?style=for-the-badge&labelColor=2D0A4E" alt="Repository Stats"/>
+  </a>
+</p>
