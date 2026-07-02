@@ -3,9 +3,9 @@
 </div>
 <p align="center">
   <a href="https://repositorystats.com/stell2026/anima">
-    <img src="https://img.shields.io/badge/📊_Repository_Insights_&_Analytics-6A0DAD?style=for-the-badge&labelColor=2D0A4E" alt="Repository Insights and Analytics"/>
+    <img src="https://raw.githubusercontent.com/stell2026/stell2026/main/assets/badge-insights.svg" alt="Repository Insights"/>
   </a>
   <a href="https://anima.2026-stell.workers.dev/">
-    <img src="https://img.shields.io/badge/🧠_Research_Hub-6A0DAD?style=for-the-badge&labelColor=2D0A4E" alt="Research Hub"/>
+    <img src="https://raw.githubusercontent.com/stell2026/stell2026/main/assets/badge-hub.svg" alt="Research Hub"/>
   </a>
 </p>
