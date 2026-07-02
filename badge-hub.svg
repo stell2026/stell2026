@@ -1,16 +1,16 @@
 <svg width="300" height="56" viewBox="0 0 300 56" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#5B0EAD"/>
-      <stop offset="100%" stop-color="#2D0A4E"/>
+      <stop offset="0%" stop-color="#3B1E66"/>
+      <stop offset="100%" stop-color="#150920"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="298" height="54" rx="10" fill="url(#bgGrad2)" stroke="#9D4EDD" stroke-width="1"/>
-  <g transform="translate(24,28)" stroke="#E0AAFF" stroke-width="1.4" fill="none">
+  <rect x="1" y="1" width="298" height="54" rx="10" fill="url(#bgGrad2)" stroke="#5E3D8C" stroke-width="1"/>
+  <g transform="translate(24,28)" stroke="#9B7FC7" stroke-width="1.4" fill="none">
     <path d="M -4 -12 L -4 -3 L -11 10 A 2 2 0 0 0 -9 13 L 9 13 A 2 2 0 0 0 11 10 L 4 -3 L 4 -12" stroke-linejoin="round" stroke-linecap="round"/>
     <line x1="-6" y1="-12" x2="6" y2="-12" stroke-linecap="round"/>
     <line x1="-7" y1="4" x2="7" y2="4" stroke-linecap="round"/>
   </g>
-  <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#F3E8FF" letter-spacing="0.2">Research Hub</text>
-  <text x="54" y="40" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#C77DFF" letter-spacing="0.3">DOCS · DEVLOG · PAPERS</text>
+  <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#D6C6EE" letter-spacing="0.2">Research Hub</text>
+  <text x="54" y="40" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#7C5FA3" letter-spacing="0.3">DOCS · DEVLOG · PAPERS</text>
 </svg>
