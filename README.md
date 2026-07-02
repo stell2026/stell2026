@@ -1,7 +1,7 @@
 <div align="center">
   <img src="anima.gif"/>
 </div>
-$<p align="center">
+<p align="center">
   <a href="https://repositorystats.com/stell2026/anima">
     <img src="https://raw.githubusercontent.com/stell2026/stell2026/main/badge-insights.svg" alt="Repository Insights"/>
   </a>
