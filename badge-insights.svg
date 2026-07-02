@@ -1,17 +1,17 @@
-<svg width="300" height="56" viewBox="0 0 300 56" xmlns="http://www.w3.org/2000/svg">
+<svg width="340" height="46" viewBox="0 0 340 46" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#3B1E66"/>
       <stop offset="100%" stop-color="#150920"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="298" height="54" rx="10" fill="url(#bgGrad1)" stroke="#5E3D8C" stroke-width="1"/>
-  <g transform="translate(24,28)" stroke="#9B7FC7" stroke-width="1.4" fill="none">
+  <rect x="1" y="1" width="338" height="44" rx="10" fill="url(#bgGrad1)" stroke="#5E3D8C" stroke-width="1"/>
+  <g transform="translate(24,23)" stroke="#9B7FC7" stroke-width="1.4" fill="none">
     <ellipse cx="0" cy="0" rx="13" ry="5" transform="rotate(0)"/>
     <ellipse cx="0" cy="0" rx="13" ry="5" transform="rotate(60)"/>
     <ellipse cx="0" cy="0" rx="13" ry="5" transform="rotate(120)"/>
     <circle cx="0" cy="0" r="2.2" fill="#D6C6EE" stroke="none"/>
   </g>
-  <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#D6C6EE" letter-spacing="0.2">Repository Insights</text>
-  <text x="54" y="40" font-family="Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#7C5FA3" letter-spacing="0.3">COMMITS · ACTIVITY · METRICS</text>
+  <text x="54" y="20" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#D6C6EE" letter-spacing="0.2">Repository Insights</text>
+  <text x="54" y="33" font-family="Helvetica, Arial, sans-serif" font-size="9.5" font-weight="400" fill="#7C5FA3" letter-spacing="0.3">COMMITS · ACTIVITY · METRICS</text>
 </svg>
